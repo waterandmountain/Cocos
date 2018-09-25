@@ -84,6 +84,12 @@ html,body{
     float: right;
     width: 730px;
 }
+.product-banner-info p{
+    /* border:1px solid red; */
+    line-height: 1.5rem;
+    font-size: .9rem;
+    text-indent: 2rem;
+}
 .product-banner-info h1 {
     font-size: 48px;
     color: #2C3036;
@@ -303,7 +309,8 @@ html,body{
         /* border:1px solid red; */
         font-size: .9rem;
         /* font: 12px "Microsoft Yahei", "Pinghei",Helvetica , Arial, sans-serif; */
-        line-height: 1.5rem
+        line-height: 1.5rem;
+        /* border:1px solid red; */
     }
     .product-release-notes {
         margin-top: 60px;
